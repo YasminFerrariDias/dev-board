@@ -1,16 +1,23 @@
-# React + Vite
+# Dev Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação desenvolvida com React e Vite durante estudos independentes, consolidando os fundamentos da biblioteca na prática com estrutura de projeto real.
 
-Currently, two official plugins are available:
+## Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [React](https://react.dev/) — biblioteca para construção de interfaces
+- [Vite](https://vitejs.dev/) — bundler e servidor de desenvolvimento
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) — lógica da aplicação
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) — estilização
 
-## React Compiler
+## Como Executar
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## Sobre
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Projeto desenvolvido para praticar os fundamentos do React em um ambiente real com Vite, evoluindo dos estudos com arquivos HTML isolados para uma estrutura modular de aplicação.
+
+> Desenvolvido por **Yasmin Ferrari Dias** 🚀
